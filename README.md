@@ -46,5 +46,4 @@ https://docs.mongodb.com/manual/
 
 ## Author
 Kelvin Jose
-GitHub: https://www.github.com/kelvin-jose
 LinkedIn: https://www.linkedin.com/in/kelvinjose
